@@ -1,8 +1,4 @@
-﻿//ALGO2 IS1 220A LAB02
-//JAGODA PIETRUSEWICZ
-//pj53823@zut.edu.pl
-
-#include "Header.h"
+﻿#include "Header.h"
 
 int main()
 {
